@@ -1,0 +1,14 @@
+
+/* Tabel & aksi */
+.table td, .table th { vertical-align: middle; }
+.table-aksi { white-space: nowrap; }
+.table-aksi .btn { margin-right: .15rem; }
+#dataTable thead th { white-space: nowrap; }
+
+/* Kotak estimasi nilai */
+.estimasi-box { background: #f8f9fc; border: 1px solid #e3e6f0; }
+
+/* Tabel data lebih ringkas supaya kolom banyak muat */
+#dataTable { font-size: .85rem; }
+#dataTable th, #dataTable td { padding: .6rem .65rem; }
+#dataTable thead th { padding-right: 1.6rem; }
